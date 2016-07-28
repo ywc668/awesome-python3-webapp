@@ -1,8 +1,1 @@
-Start from July 25th, 2016.
-This is used to learn Git.
-Change again.
-Understanding stage.
-Git tracks changes. 
-Creating a branch is quick and simple.
-Add merge.
-Git is a free software.
+Start working at July 28, 2016 for my first Web App. Yeah~~~~~~~ ^~^
