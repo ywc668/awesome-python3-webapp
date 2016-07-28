@@ -5,3 +5,4 @@ Understanding stage.
 Git tracks changes. 
 Creating a branch is quick and simple.
 Add merge.
+Git is a free software.
