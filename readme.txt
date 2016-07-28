@@ -4,3 +4,4 @@ Change again.
 Understanding stage.
 Git tracks changes. 
 Creating a branch is quick and simple.
+Add merge.
